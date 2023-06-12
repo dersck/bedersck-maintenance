@@ -158,7 +158,7 @@
 
         $.ajaxChimp.translations.es = {
             'submit': 'Enviando...',
-            0: '<i class="fas fa-check"></i> Te hemos enviado un correo electrónico de confirmación',
+            0: '<i class="fas fa-check"></i> Gracias por suscribirte, te notificaremos cuando el sitio esté listo :D',
             1: '<i class="fas fa-exclamation-triangle"></i> Por favor, ingresa un valor.',
             2: '<i class="fas fa-exclamation-triangle"></i> Una dirección de correo electrónico debe contener una sola @.',
             3: '<i class="fas fa-exclamation-triangle"></i> La parte del dominio de la dirección de correo electrónico no es válida (la parte después de la @: )',
